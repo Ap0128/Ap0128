@@ -1,6 +1,6 @@
 <div align="">
 
-# Anirudh Patil
+# Anirudh Patil 
 
 **Backend-Focused Developer | Full-Stack Engineer | IoT Systems Builder**
 
